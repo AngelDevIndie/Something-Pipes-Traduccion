@@ -1,0 +1,32 @@
+Traducción de "There's Something in the Pipes", (Comienzo: 23-08-2023 - Finalizado: XX-XX-2023)
+
+Índice
+------
+1. Como jugar en Windows
+2. Notas sobre la traducción
+3. Historial de versiones
+
+
+1. Como jugar en Windows:
+-------------------------
+1. Copiar contenido de la traducción en carpeta del juego.
+2. Ejecutar con "Pipes.exe".
+3. Con "Winsetup.exe", asegúrate de que en Game lenguage está seleccionado "Spanish".
+4. A jugar
+
+
+2. Notas sobre la traducción:
+-----------------------------
+* Se pueden usar sin problemas todos los caracteres españoles áéíóúüñ¡¿.
+* Se puede modificar el tamaño de las cadenas.
+
+
+3. Historial de versiones:
+--------------------------
+* 1.0 (XX-XX-2023) Lanzamiento inicial.
+
+
+Para hacer algún comentario sobre la traducción podéis dirigiros a este foro:
+https://www.abandonsocios.org/index.php?topic=XXXXX
+
+© cireja, XX-XXXXX-2023
