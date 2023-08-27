@@ -1,0 +1,2338 @@
+//#GameId=3026953
+//#GameName=There's Something in the Pipes
+// [game28.dta]
+//   [dialog topic 1]
+Lights On
+Luces encendidas
+Lights Off
+Luces apagadas
+//   [dialog topic 2]
+//   [dialog topic 3]
+Did I kill someone?
+¿He matado a alguien?
+Did someone die in here?
+¿Ha muerto alguien aquí?
+Maybe something went wrong elsewhere?
+¿Quizás algo salió mal en otra parte?
+Maybe it's just red.
+Tal vez sólo sea rojo.
+Should I call a plumber?
+¿Debería llamar a un fontanero?
+Screw it.
+Que le den.
+//   [dialog topic 4]
+//   [dialog topic 5]
+Default - Random
+Por defecto - Aleatorio
+Timer Up
+
+//   [dialog topic 6]
+I could use your perspective on something...
+Me vendría bien tu perspectiva sobre algo...
+How is your studying going?
+¿Cómo te van los estudios?
+option 3
+opción 3
+option 4
+opción 4
+I should go.
+Debería irme.
+//   [dialog topic 7]
+(Give up and leave)
+(Ríndete y abandona)
+(Keep playing)
+(Seguir jugando)
+//   [dialog topic 8]
+Do you have any plumbing tips?
+¿Tienes algún consejo sobre fontanería?
+Do you actually think it's a ghost?
+¿De verdad crees que es un fantasma?
+So, how would you deal with a ghost?
+Entonces, ¿cómo tratarías con un fantasma?
+I found a rubber duck.
+Encontré un patito de goma.
+I have some bad news about Cool Ranch.
+Tengo malas noticias sobre Cool Ranch.
+So, my sink exploded.
+Así que mi lavabo explotó.
+I think the dead are talking to me.
+Creo que los muertos me hablan.
+I think I found what the ghost wants.
+Creo que encontré lo que quiere el fantasma.
+Never mind.
+Olvídalo.
+//   [dialog topic 9]
+Yes.
+Sí.
+I don't know.
+No lo sé.
+No.
+
+Shut up.
+Cállate.
+//   [dialog topic 10]
+//   [dialog topic 11]
+(Drop it in.)
+(Tíralo dentro.)
+(Don't do that.)
+(No hagas eso.)
+//   [dialog topic 12]
+Standard
+Estándar
+No Jumpscare
+Sin sustos repentinos
+//   [dialog topic 13]
+//   [dialog topic 14]
+So, you're Cool Ranch.
+Así que, eres de Cool Ranch.
+Must be nice being a duck.
+Debe estar bien ser un pato.
+Do you know anything about ghosts?
+¿Sabes algo de fantasmas?
+Sorry for almost sacrificing you to the bath gods.
+Perdón por casi sacrificarte a los dioses del baño.
+I wonder how your owner is doing.
+Me pregunto cómo estará su dueño.
+Enough of this.
+Ya está bien.
+//   [dialog topic 15]
+//   [dialog topic 16]
+//   [dialog topic 17]
+//   [dialog topic 18]
+//   [dialog topic 19]
+//   [dialog topic 20]
+(Draw a line...)
+(Dibuja una línea...)
+(Draw a circle...)
+(Dibuja un círculo...)
+(Draw a triangle...)
+(Dibuja un triángulo...)
+Eh, good enough.
+Eh, bastante bien.
+//   [dialog topic 21]
+(Draw a diagonal line.)
+(Dibuja una línea diagonal).
+(Draw two vertical lines.)
+(Dibuja dos líneas verticales.)
+(Draw three horizontal lines.)
+(Dibuja tres líneas horizontales.)
+//   [dialog topic 22]
+(Yeah, just one circle.)
+(Sí, un círculo.)
+(Draw two circles.)
+(Dibuja dos círculos.)
+(Draw crop circles.)
+(Dibuja círculos en los cultivos.)
+//   [dialog topic 23]
+(Draw it pointing up, kinda.)
+(Dibújalo apuntando hacia arriba, más o menos.)
+(Draw it pointing down.)
+(Dibújalo apuntando hacia abajo.)
+(Draw it pointing left.)
+(Dibújalo apuntando a la izquierda).
+//   [dialog topic 24]
+//   [dialog topic 25]
+//   [dialog topic 26]
+Sure. (Delete save files)
+Claro. (Borrar archivos guardados)
+Nah. (Quit game)
+No. (Salir del juego)
+//   [dialog topic 27]
+//   [global script strings]
+textLook
+
+textUse
+
+textInvFail
+
+Something's fucked up. Tell CJ Hotspot, %d.
+Algo se ha jodido. Díselo a CJ Hotspot, %d.
+Something's fucked up. Tell CJ Object, %d.
+Algo se ha jodido. Díselo a CJ Object, %d.
+They're just standing around.
+Están parados.
+They're not in a talking mood.
+No están de humor para hablar.
+They don't want it.
+No lo quieren.
+Something's fucked up. Tell CJ Character, %d.
+Algo se ha jodido. Díselo a CJ Character, %d.
+@OVERHOTSPOT
+
+screenshot.pcx
+
+I don't think drinking this would be wise.
+No creo que beber esto sea prudente.
+$APPDATADIR$/settings.ini
+
+master
+principal
+audio
+
+bgm
+
+ambient
+ambiente
+sfx
+
+tintRed
+
+visual
+
+tintGreen
+
+tintBlue
+
+Save/Load is unavailable in the web build - sorry about that!
+Guardar/Cargar no está disponible en la versión web, ¡lo sentimos!
+panModeDrag
+
+gameplay
+
+panQuickturnEnabled
+
+What am I going to do with myself?
+¿Qué voy a hacer conmigo misma?
+Pull yourself together, Dunst.
+Contrólate, Dunst.
+Is it too late to go back to bed?
+¿Es demasiado tarde para volver a la cama?
+...No, no, gotta fix this.
+... No, no, tengo que arreglar esto.
+bloop
+blup
+Ugh... my hair feels so oily. I bet it's sticking up right now.
+Uf... tengo el pelo tan grasiento. Apuesto a que lo tengo pegajoso ahora mismo.
+...Maybe later.
+... Tal vez más tarde.
+Sweeping things under the rug is what I do best.
+Barrer las cosas bajo la alfombra es lo que mejor se me da.
+Let's not go that far.
+No vayamos tan lejos.
+They do look kind of tasty-
+Parecen bastante sabrosa-
+No, no. No more eating wax. You're not six years old.
+No, no. No se come más cera. No tienes seis años.
+I'll put these on when I have a specific task in mind.
+Me los pondré cuando tenga una misión específica en mente.
+...In other words, I should use these on something else.
+... En otras palabras, debería usarlos en otra cosa.
+Just holding this thing is giving me a bad feeling.
+Sólo sostener esta cosa me da mala espina.
+I'd rather not put it on...
+Preferiría no ponérmelo...
+There's no need to save here. The title screen can't hurt you.
+Aquí no hace falta guardar. La pantalla de título no puede hacerte daño.
+Please enter a name for your saved game.
+Introduce un nombre para tu partida guardada.
+You've somehow hit the maximum save count of 20. Please delete a couple.
+Has alcanzado el número máximo de 20 de guardados. Por favor, borra un par.
+Please select a saved game to delete.
+Selecciona una partida guardada para eliminarla.
+Please select a saved game to be loaded.
+Selecciona una partida guardada para cargarla.
+Please select a saved game to be loaded
+Selecciona una partida guardada para cargarla
+//   [dialog script strings]
+What the hell...?
+¿Qué demonios...?
+What's wrong with the water? It's red, and gooey... and...
+¿Qué le pasa al agua? Está roja, y pegajosa... y...
+Ugh smells TERRIBLE in here.
+Ugh. Huele HORRIBLE.
+That can't be blood. Can it?
+Eso no puede ser sangre. ¿No?
+Did I-?
+¿Acaso yo...?
+No. Don't be stupid, Clarissa. You know what you did last night.
+No. No seas estúpida, Clarissa. Sabes lo que hiciste anoche.
+Six hours minding the store. An extra two hours past close, cleaning up after those brats.
+Seis horas atendiendo la tienda. Y dos horas más después del cierre, limpiando lo que dejaron esos niñatos.
+Then bed.
+Luego a la cama.
+There's no room for... for murderous blackouts in that timeline.
+No hay lugar para... para lagunas asesinas en esa línea temporal.
+...
+
+Maybe I'll check the store security footage later. Just in case.
+Tal vez revise las imágenes de seguridad de la tienda más tarde. Por si acaso.
+Come to think of it, it's been- what, 18 hours since I was in here?
+Ahora que lo pienso, han pasado... ¿cuánto, 18 horas desde que estuve aquí?
+Someone could have sneaked past me in that time.
+Alguien podría haberse colado a hurtadillas en ese tiempo.
+%a And died?
+%a ¿Y morir?
+%a In my bathroom.
+%a En mi cuarto de baño.
+What am I even saying.
+¡Qué estoy diciendo!
+You would've noticed if your apartment was unlocked. You would've noticed the smell, too.
+Te habrías dado cuenta si tu apartamento estaba abierto. También habrías notado el olor.
+Besides, there's no body. And one person couldn't bleed *this* much.
+Además, no hay cuerpo. Y una persona no puede sangrar *tanto*.
+How many other stores are on this pipeline?
+¿Cuántas tiendas más hay conectadas en esta tubería?
+Maybe someone dumped a litre of paint down their sink?
+¿Quizá alguien tiró un litro de pintura por el lavabo?
+Sure doesn't smell like paint...
+Claro que no huele a pintura...
+It can't be real blood. It just can't.
+No puede ser sangre real. Simplemente no puede ser.
+%a So then... what is it?
+%a Entonces... ¿qué es?
+Maybe it's some kind of rust?
+¿Tal vez sea algún tipo de óxido?
+Or fungus?
+¿O quizás hongos?
+I doubt the council's checked the main in some time.
+Dudo que el ayuntamiento haya revisado la cañería en mucho tiempo.
+It could be a buildup of plant or dirt.
+Podría ser una acumulación de plantas o suciedad.
+Extremely red dirt.
+Suciedad extremadamente roja.
+The pipes have been creakier than usual lately...
+Últimamente las tuberías crujen más de lo normal...
+Okay. Standing around gawking doesn't change the fact I need a shower.
+Vale. Quedarme embobada no cambia el hecho de que necesito una ducha.
+I can deal with a blockage. I might have to skip breakfast, but--
+Puedo lidiar con un atasco. Puede que tenga que saltarme el desayuno, pero--
+*RING RING*
+
+Huh?
+¿Eh?
+Who could it be at this hour?
+¿Quién puede ser a estas horas?
+???
+
+...Video Nine. Clarissa speaking.
+... Video Nueve. Clarissa al habla.
+Ms. Dunst?
+¿Sra. Dunst?
+Ingrid
+
+Ingrid? It's four in the morning. Why are you awake?
+¿Ingrid? Son las cuatro de la mañana. ¿Por qué estás despierta?
+Uhh, yeah, so... You said we're supposed to give, like, two hours notice if we can't come in. Right?
+Uhh, sí, bueno... Dijiste que debíamos avisar con dos horas de antelación si no podemos ir. ¿Verdad?
+That's true. Yes.
+Es verdad, sí. Y tutéame.
+Awesome. 'Cause I got food poisoning. REAL bad. Shittin' everywhere.
+Genial. Porque he comido algo que me ha sentado mal. Estoy REALMENTE fatal. Cagándome por todas partes.
+Sooo I kinda can't open today. Sorry.
+Así que no puedo abrir hoy. Lo siento.
+You're lying to me.
+Me estás mintiendo.
+I'm lying to you.
+Te estoy mintiendo.
+Let me guess. You forgot to study.
+Déjame adivinar. Olvidaste que tenías que estudiar.
+Yeah the exam is in like eight hours.
+Sí, el examen es dentro de ocho horas.
+Right. Go to sleep.
+De acuerdo. Vete a dormir.
+How about YOU go to sleep?
+¿Qué tal si TÚ te vas a dormir?
+I have a store to run and a shower to fix, Ingrid.
+Tengo una tienda que atender y una ducha que arreglar, Ingrid.
+Oh yeah, hahaha.
+Oh sí, ja ja ja.
+Wait what's wrong with your shower?
+Espera, ¿qué le pasa a tu ducha?
+I don't know. The tub's drain is clogged and there's all this red liquid in it.
+No lo sé. El desagüe de la bañera está atascado y tiene un líquido rojo.
+Red?
+¿Rojo?
+Blood red.
+Color rojo sangre.
+Sooo... did flushing the body down the toilet not work, orrrr...
+Así que... tirar el cuerpo por el retrete no funcionó, o...
+Ingrid.
+
+Kidding! Jeez. But seriously that's spooky.
+¡Es broma! Caramba. Pero en serio, eso es espeluznante.
+It's annoying is what it is.
+Es un fastidio, eso es lo que es.
+Maybe it's a...
+Tal vez sea...
+Don't.
+No.
+A...
+Un...
+%a G-g-g-ghooooooooooooooooost!
+%a ¡F-a-n-t-a-s-maaaaaaaaaaaaaaaaaa!
+How about we blame Sadako AFTER a plumber rules everything else out.
+¿Qué tal si culpamos a Sadako DESPUÉS de que un fontanero descarte todo lo demás?
+A plumber? Before midday? Yeah good luck with that.
+¿Un fontanero? ¿Antes del mediodía? Sí, buena suerte con eso.
+Hey, call me if anything weird happens, will you? I'm invested now.
+Oye, llámame si pasa algo raro, ¿quieres? Estoy interesada en esto.
+Plus if I don't take a break every five minutes I think my head will explode.
+Además, si no me tomo un descanso cada cinco minutos creo que me va a estallar la cabeza.
+I'll think about it.
+Lo pensaré.
+%a Good night, Ingrid.
+%a Buenas noches, Ingrid.
+*Click*
+
+*Sigh* It would be nice to have someone my own age to call for advice, but I suppose Ingrid will do.
+*Suspiro* Estaría bien tener a alguien de mi edad a quien pedir consejo, pero supongo que con Ingrid bastará.
+Besides. If she's hellbent on pulling an all-nighter, I guess I can't make that any worse.
+Además. Si está empeñada en estar llamando toda la noche, supongo que no puedo empeorar las cosas.
+Zheng residence, Zheng speaking.
+Residencia Zheng, al habla Zheng.
+Hi Ingrid. I must say, your phone manner has really improved these past few months.
+Hola Ingrid. Debo decir que tus modales telefónicos han mejorado mucho estos últimos meses.
+%a ...Even if it's still a tad redundant.
+%a ... Aunque siga siendo un poco redundante.
+Yeah yeah yeah. Whaddya want?
+Sí, sí, sí. ¿Qué quieres?
+Me again.
+Yo otra vez.
+Figured. Hey do you know if there's a way to, like, make the ringer quieter?
+Me lo imaginaba. Oye, ¿sabes si hay una manera de hacer que el timbre sea más silencioso?
+%a I don't want mum to think I'm sellin' meth again.
+%a No quiero que mamá piense que estoy vendiendo metanfetaminas otra vez.
+That raises several questions.
+Esto plantea varias preguntas.
+Her logic is real weird and only gets worse when she hasn't slept right.
+Su lógica es muy rara y cuando no ha dormido bien tan sólo empeora.
+Hm. Try covering it with a pillow.
+Hm. Intenta cubrirlo con una almohada.
+Will do. Anyway what's up?
+Lo haré. De todos modos, ¿qué pasa?
+Hi, Ingrid. Got some-
+Hola, Ingrid. Tengo algo-
+Dude you are echoing a LOT. Is there somethin' wrong with th-
+Tío, tienes mucho eco. ¿Hay algo mal en la...?
+%a Wait, do you keep your landline in the bathroom?
+%a Espera, ¿tienes el teléfono fijo en el baño?
+You need to relax more. Anyway, what happened this time?
+Tienes que relajarte. De todos modos, ¿qué pasó esta vez?
+Hey Ingr%DONTWAIT
+
+THIRTY-SEVEN.
+TREINTA Y SIETE.
+Sorry I mean hi. I got distracted by the prac. That's been buggin' me for an hour.
+Lo siento, quiero decir hola. Me distraje con la práctica. Eso me ha estado molestando durante una hora.
+What were you gonna say?
+¿Qué ibas a decir?
+Good - *YAWN* - morning. Zheng residence.
+Buenos - *YAWN* - días. Residencia Zheng.
+I appreciate the upkeep of phone formalities.
+Agradezco el mantenimiento de las formalidades telefónicas.
+Hahaha... yeah. Might've asked a wrong number for some coffee powder to snort a few minutes ago...
+Ja, ja, ja... sí. Puede que haya pedido a un número equivocado algo de café en polvo para esnifar hace unos minutos...
+So, what did you need?
+¿Qué necesitabas?
+Zheng talking.
+Zheng al habla.
+...Ingrid, you sound exhausted. Go to sleep.
+... Ingrid, suenas agotada. Vete a dormir.
+How'm I gonna do that if you keep ringing me?
+¿Cómo voy a hacerlo si sigues llamándome?
+Then I'll stop.
+Entonces pararé.
+Please no I have algebra to burn into my eyeballs.
+Por favor no, tengo el álgebra ardiendo en mis globos oculares.
+Zheng household, Ingrid speakin'.
+Casa Zheng, al habla Ingrid.
+Hi again. There's something I wanted to ask you.
+Hola de nuevo. Hay algo que quería preguntarte.
+...Hellooooo?
+... ¿Holaaaaa?
+Hi, Ingrid. Me again.
+Hola, Ingrid. Otra vez yo.
+Jeez Ms. D. I, like, JUST put the phone down.
+Por Dios, Sra. D. Acabo de colgar el teléfono.
+%a Anyway what's up?
+%a De todas formas, ¿qué pasa?
+I could use your perspective on something.
+Me vendría bien tu punto de vista sobre algo.
+Ugh. Next question.
+Agh. Siguiente pregunta.
+All right. Why did you leave it to the last second again?
+Vale. ¿Por qué lo has vuelto a dejar para el último momento?
+Dude do you know how hard it is trying to get quiet time in this house?
+Tía, ¿sabes lo difícil que es conseguir silencio en esta casa?
+The AM's are like, the only time I'm NOT working and mum ISN'T breathing down my neck.
+Las mañanas son el único momento en que NO estoy trabajando y mamá NO está respirando en mi cuello.
+Maybe you're right. Maybe I shoulda just gone to bed.
+Quizá tengas razón. Tal vez debería haberme ido a la cama.
+Don't say that.
+No digas eso.
+It's not like a few hours are gonna fu--
+No es que unas pocas horas vayan a jod--
+%a effin'... make my ENTER go up.
+%a joder... ¡me va a explotar la cabeza!
+You sure you don't want me to come over? Sounds like less of a waste of time than%DW
+¿Seguro que no quieres que vaya? Me parece menos pérdida de tiempo que%DW
+*No.*
+
+%a No.
+
+You are not throwing your grades away just to help me fix a pipe.
+No vas a tirar tus notas a la basura sólo para ayudarme a arreglar una tubería.
+Okay, okay! Sheesh.
+¡Vale, vale! ¡Hostia!
+So... you got any tips for calculatin' the median circumference of a teenager's skull?
+¿Tienes algún truco para calcular la circunferencia media del cráneo de un adolescente?
+I'll get back to you.
+Ya te llamaré.
+Good luck in there, Venkmann!
+¡Buena suerte ahí dentro, Peter Venkman!
+Don't slip n' crack your head on a toilet bowl!
+¡No te resbales y te rompas la cabeza con la taza del váter!
+You know where to find me, Mario Bro.
+Ya sabes dónde encontrarme, Mario Bro.
+Say hi to the ghouls for me!
+¡Saluda a los ghouls de mi parte!
+Don't get possessed!
+¡No dejes que te posean!
+Exorcise safe!
+¡A salvo con el exorcismo!
+To tell the truth, Ingrid, I have no idea what I'm doing.
+A decir verdad, Ingrid, no tengo ni idea de lo que estoy haciendo.
+%a I've never had to plumb my own bathroom before.
+%a Nunca había tenido que desatascar mi propio baño.
+Why don't you try getting rid of the gunk?
+¿Por qué no intentas deshacerte de la mugre?
+What, with a bucket?
+¿Qué? ¿Con un cubo?
+No, stupid. I mean using the actual drain.
+No, tonta. Me refiero a usar el desagüe.
+D'you know what's clogging it?
+¿Sabes qué lo está obstruyendo?
+%a Did you leave the plug in? Is there an arm stickin' out of the pipe?
+%a ¿Dejaste el tapón puesto? ¿Hay un brazo saliendo de la tubería?
+It's hard to tell just by looking. And I'd rather not touch... whatever this is.
+Es difícil de decir sólo mirando. Y preferiría no tocar... lo que quiera que sea esto.
+Well I'm not gonna do it for you.
+Bueno, yo no voy a hacerlo por ti.
+%a Maybe you can knock it loose with somethin'?
+%a ¿Tal vez puedas soltarlo con algo?
+I dunno. It's your bathroom. Look around.
+No sé. Es tu baño. Mira a tu alrededor.
+I've got a hypothetical for you, Ingrid.
+Tengo un caso hipotético para ti, Ingrid.
+Shoot.
+Dispara.
+Let's say I removed a blockage. And I know I've removed it. But the water isn't draining.
+Digamos que he quitado un atasco. Y sé que lo he quitado. Pero el agua no desagua.
+What should I do?
+¿Qué tengo que hacer?
+Spooooooky.
+Escalofriaaaaante.
+It's not a ghost!
+¡No es un fantasma!
+Well it doesn't sound like a plumbing thing, either!
+¡Pues tampoco parece cosa de fontanería!
+So maybe we should start talking spectral.
+Entonces tal vez deberíamos empezar a hablar de espectros.
+Do you... Do you actually think it could be a ghost?
+¿Crees...? ¿Realmente crees que podría ser un fantasma?
+Huh? I was just quoting that movie you had playing on the TVs the other day.
+¿Eh? Estaba citando esa película que pusieron en la tele el otro día.
+%a "Roommates", or whatever.
+%a "Compañeros de piso", o algo así.
+Why? Do you?
+¿Por qué? ¿Y tú?
+Regardless of whether or not this is an actual haunting, let's try thinking of it as one.
+Independientemente de si se trata o no de un fantasma de verdad, pensemos en ello como si lo fuera.
+Let's pretend there's a ghost in my bathroom. How would I remove it?
+Imaginemos que hay un fantasma en mi cuarto de baño. ¿Cómo lo eliminarías?
+Uhh... I dunno. Do whatever they do in the movies I guess.
+Uhh... No lo sé. Haz lo que hacen en las películas, supongo.
+Like you said - ghosts ain't easy to see, yeah? They're always hiding, or invisible, or whatever.
+Como dijiste, los fantasmas no son fáciles de ver, ¿verdad? Siempre están escondidos, o invisibles, o lo que sea.
+%a So maybe you gotta find a way to actually talk to it?
+%a Así que tal vez tengas que encontrar una manera de hablar con él.
+This is getting ridiculous.
+Esto empieza a ser ridículo.
+You're the movie nerd. All I know is that the lights're usually off in those scenes.
+Tú eres la friki del cine. Todo lo que sé es que las luces suelen estar apagadas en esas escenas.
+%a And, like, there's usually a lotta fog.
+%a Y suele haber mucha niebla.
+Because it's harder to see the flaws in the puppets when all you have is candlelight and steam.
+Porque es más difícil ver los defectos de las marionetas cuando todo lo que tienes es la luz de las velas y el vapor.
+Still! I'm sure somethin' you've watched has a clue.
+¡Aun así! Estoy segura de que algo de lo que has visto te dará una pista.
+Hey, Ingrid. Guess what I found.
+Ey, Ingrid. Adivina lo que encontré.
+*Squeak*
+*Chillido*
+Yo! I knew it! You DO have a rubber duck collection!
+¡Eh! ¡Lo sabía! ¡TIENES una colección de patos de goma!
+It's not mine. It's a friend's.
+No es mío. Es de un amigo.
+You have friends?
+¿Tienes amigos?
+Anyway quit being such a killjoy Ms. D. Float that bad boy.
+De todas formas, deja de ser tan aguafiestas Sra. D. Haz flotar a ese chico malo.
+So I found an old rubber duck in one of my cupboards...
+Entonces encontré un viejo pato de goma en uno de mis armarios...
+Yo! I knew it! You DO collect them!
+¡Eh! ¡Lo sabía! ¡Los coleccionas!
+%a Anyway I hear ducks are real good at helping people work through problems. Yours could have a plumbing degree.
+%a De todas formas he oído que los patos son muy buenos ayudando a la gente a resolver problemas. El tuyo podría tener un título en fontanería.
+This one looks like a freeloader. It's just floating around.
+Este parece un vago. Está por ahí flotando.
+Maybe he can't work under these conditions. You ever think about that?
+Quizá no pueda trabajar en estas condiciones. ¿Lo has pensado alguna vez?
+You got him basic plumbing supplies? Dumbass?
+¿Le has dado materiales básicos de fontanería? ¿Tonta?
+And the light's probably in his eyes. Idiot.
+Y la luz está probablemente en sus ojos. Idiota.
+Oh shit is the Buyer's Direct recalling all the salad dressing?
+Oh, mierda, ¿el Buyer's Direct está retirando del mercado todos los aderezos para ensaladas?
+No! I'm talking about J-
+¡No! Hablo de J-
+%a about my friend's rubber duck.
+%a sobre el patito de goma de mi amigo.
+I dropped it in the bath and it sunk like a rock.
+Lo dejé caer en la bañera y se hundió como una roca.
+Well that's about the saddest thing I ever heard from a forty year-old.
+Eso es lo más triste que he oído decir a una cuarentona.
+I'm twenty-nine, Ingrid%DW
+Tengo veintinueve, Ingrid%DW
+You sure it didn't just fall outta the tub when you weren't looking?
+¿Seguro que no se cayó de la bañera cuando no mirabas?
+Get a light in there. See where it went.
+Pon una luz ahí. A ver dónde fue.
+So my sink exploded.
+Entonces mi lavabo explotó.
+Wow.
+Guau.
+%a Y'know now that you mention it I've heard about stuff like that happening.
+%a Ahora que lo mencionas, ya sabes, he oído que suceden cosas así.
+After water gets turned off or clogged for a while there's like... air bubbles? In the pipes?
+Después de que el agua se cierra o se atasca durante un tiempo hay como... ¿burbujas de aire? ¿En las tuberías?
+So when you flip it on again the faucet's all SPLWWWSSHSHSHHHHSHSHSHSHHH.
+Y cuando vuelves a abrirlo, el grifo hace SPLWWWSSHSHSHHHHSHSHSHSHHH.
+Just be careful turnin' things off and on I guess. Make sure there's nothin' down there first.
+Ten cuidado al apagar y encender las cosas, supongo. Primero asegúrate de que no hay nada ahí abajo.
+Hm.
+
+Ingrid, um... The mirror, it...
+Ingrid, um... El espejo, es...
+%aMs. D?
+%a¿Sra. D?
+I saw...
+He visto...
+F-forget it.
+O-olvídelo.
+Dude, you sound real freaked. Tell me.
+Tío, suenas muy asustado. Cuéntame.
+%a No, it's... fine. I'm just tired and angry and imagining shit.
+%a No, está... bien. Sólo estoy cansada y enojada e imaginando mierdas.
+This has got to be a prank. It's probably a prank by HER.
+Tiene que ser una broma. Probablemente sea una broma de ELLA.
+It's not hard to fake mirror writing. All it takes is a bit of grease to block condensation, and...
+No es difícil falsificar la escritura en el espejo. Basta con un poco de grasa para bloquear la condensación, y...
+Whatever the punchline to this bullshit is, I'm sure I'll find it near that arrow.
+Sea cual sea el remate de esta gilipollez, seguro que lo encuentro cerca de esa flecha.
+Uh. O-kay then.
+Uh. Bien entonces.
+%a So glad you called to tell me nothing.
+%a Me alegro de que llames para no decirme nada.
+Super cool of you.
+Super guay por tu parte.
+Ingrid, I am going to ask you something in complete seriousness. And I need you to answer seriously too.
+Ingrid, voy a preguntarte algo con toda seriedad. Y necesito que tú también respondas con seriedad.
+Okay... weirdly intense but what's up?
+Vale... extrañamente intensa pero ¿qué pasa?
+Have you, at any point over the past week, used the upstairs bathroom?
+¿Has usado, en algún momento de la semana pasada, el baño de arriba?
+What? No.
+¿Cómo? No.
+You're positive? Because if this is the setup to another joke-
+¿Estás segura? Porque si esto es otra broma...
+Dude I've told you like five times, the store bathroom is nasty and your apartment's is no better.
+Tío, te lo he dicho como cinco veces, el baño de la tienda es asqueroso y el de tu apartamento no es mejor.
+I use the Git Fit's bathroom.
+Yo uso el baño del Git Fit.
+And you've never snuck up there for any other purpose, or hidden anything behind any of my cabinets.
+Y nunca te has colado allí con otro propósito, ni has escondido nada detrás de ninguno de mis armarios.
+No??
+¿¿No??
+%a Oh, man, you found something didn't you?
+%a Oh, tío, has encontrado algo, ¿no?
+Yeah. It looks like an amber pendant.
+Sí. Parece un colgante de ámbar.
+Rad.
+Guay.
+It has a praying mantis inside.
+Tiene una mantis religiosa dentro.
+Still rad.
+Sigue siendo genial.
+And I think... I think the thing in the tub...
+Y creo... creo que la cosa de la bañera...
+%aYou screwin' with me?
+%a¿Me estás vacilando?
+Are you screwing with *me?*
+¿Te estás quedando *conmigo*?
+Ms. D, you are my boss and capable of financially wrecking my shit if you wanted to.
+Sra. D, usted es mi jefa y es capaz de arruinarme financieramente si quisiera.
+So know I say this with that in mind:
+Así que sepa que digo esto con eso en mente:
+%a Hurl that thing in a dumpster and find some place else to piss.
+%a Tire esa cosa a un contenedor y busque otro sitio donde orinar.
+Okay?
+¿Vale?
+Oh, you wanna talk about something else?
+Oh, ¿quieres hablar de otra cosa?
+Wait really? You?
+Espera, ¿en serio? ¿Tú?
+%a The woman who irons her jean skirts believes in ghosts.
+%a La mujer que plancha sus faldas vaqueras cree en fantasmas.
+It's hard to put into words, but...
+Es difícil expresarlo con palabras, pero...
+I think it's silly to assume I know what happens after death.
+Creo que es una tontería suponer que sé lo que pasa después de la muerte.
+%a Not when I know so little about life.
+%a No cuando sé tan poco sobre la vida.
+And now my bathtub is bleeding. So either life is being very weird, or something else is.
+Y ahora mi bañera está sangrando. Así que o la vida es muy rara, o es otra cosa.
+Thiiiiis is getting a little too real for me, boss.
+Estooooo se está volviendo demasiado real para mí, jefa.
+I don't know. Most ghost stories are about people you can't see.
+No lo sé. La mayoría de las historias de fantasmas son sobre gente que no puedes ver.
+I can't make a definitive argument over the existance of something - or someone - so intangible.
+No puedo argumentar con rotundidad sobre la existencia de algo -o alguien- tan intangible.
+%a So it's not worth thinking about.
+%a Así que no vale la pena pensar en ello.
+Well, one of them unseen people might be manifesting sludge in your bathroom.
+Bueno, una de esas personas invisibles podría estar manifestando lodo en tu baño.
+And there's a lot of other things that might be causing it, too.
+Y hay muchas otras cosas que podrían estar causándolo también.
+%a So rather than arguing about the cause, let's focus on fixing the symptoms.
+%a Así que en lugar de discutir sobre la causa, centrémonos en solucionar los síntomas.
+Don't lie to me, you live for that shit.
+No me mientas, vives para esa mierda.
+One, watch your language. And two, I live for *horror*.
+Primero, cuida tu lenguaje. Y segundo, vivo para el *horror*.
+Just because I like to see a good old fashioned practical effect decapitation doesn't mean I think invisible people are in my house.
+Que me guste ver una decapitación con efectos reales no significa que crea que hay gente invisible en mi casa.
+Invisible people? M-Ms. Dunst...
+¿Gente invisible? S-Sra. Dunst...
+Here we go.
+Vamos allá.
+Th-this phonecall...
+Es-esta llamada...
+%a It's COMING FROM INSIDE THE-%DONTWAIT
+%a VIENE DE DENTRO DEL-%DONTWAIT
+No it isn't!
+¡No es cierto!
+You can't prove it's not, man! I know where you live!
+¡No puedes probar que no, tío! ¡Sé dónde vives!
+Don't make me check the cameras in my underpants, Ingrid.
+No me hagas revisar las cámaras de mis calzoncillos, Ingrid.
+I won't be happy.
+No seré feliz.
+Wait. Wait, seriously??
+Espera. Espera, ¿¿en serio?
+HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA%DONTWAIT
+
+Shut up! I don't have to take this from a Benjamin Evergreen theorist!
+¡Cállate! ¡No tengo que aguantar esto de una teórica de Benjamin Evergreen!
+Hee-- *snrk*
+
+%a Okay, but my theory actually makes sense? You saw the doco on SBS, the man's WAY too talented to have been offed by the mob.
+Vale, ¿pero mi teoría tiene sentido? Viste el documental en SBS, el tipo es demasiado talentoso para haber sido asesinado por la mafia.
+He'd be 104, Ingrid. No.
+Tendría 104 años, Ingrid. No.
+Still makes more sense than thinking there's invisible people in your house!
+¡Sigue teniendo más sentido que pensar que hay gente invisible en tu casa!
+Look.
+Mira.
+%aRegardless of whether this is an actual haunting, let's try thinking of it as one.
+%aIndependientemente de si se trata de un fantasma de verdad, pensemos en ello como si lo fuera.
+It's... an amber necklace?
+¿Es... un collar de ámbar?
+%aAt least I think it's amber.
+%aPor lo menos creo que es ámbar.
+What's it doing in my bathroom? Have I never cleaned down the back of the sink?
+¿Qué hace en mi baño? ¿Nunca he limpiado la parte de atrás del lavabo?
+And... if there really is something in the tub...
+Y... si realmente hay algo en la bañera...
+And it wants this thing...
+Y quiere esta cosa...
+This is what you're after, isn't it?
+Esto es lo que buscas, ¿verdad?
+%a This necklace, and then you'll leave me alone?
+%a ¿Este collar, y luego me dejarás en paz?
+Actually, fuck that.
+A decir verdad, que le den.
+Fine.
+Bien.
+Have it.
+Cógelo.
+%a Now, will you please get out of my tub?
+%a ¿Podrías ahora salir de mi bañera, por favor?
+What the hell am I doing?
+¿Qué demonios estoy haciendo?
+%a This is just a huge waste of time%DONTWAIT
+%a Esto es una total pérdida de tiempo%DONTWAIT
+%a This is just a huge waste of time--
+%a Esto es una total pérdida de tiempo--
+...Nothing?
+... ¿Nada?
+%a Nothing at all?!
+%a ¡¿Nada de nada?!
+Great. Super.
+Estupendo. Fantástico.
+Can't believe I let Ingrid talk me into believing complete *horseshit*.
+Es increíble que dejara que Ingrid me convenciera de que era un completa *chorrada*.
+%aNothing left to do but go to work, I suppose.
+%aSólo queda ir a trabajar, supongo.
+U-uhhh...
+
+You've reached Video Nine's answering machine. Business hours are between 8 AM - 11 PM.
+Ha llamado al contestador automático de Video Nine. El horario comercial es de 8 a 23 horas.
+Please leave a message, and one of our friendly staff will-%DONTWAIT
+Por favor, deje un mensaje, y uno de nuestros amables empleados le-%DONTWAIT
+...Ms. Dunst?
+... ¿Sra. Dunst?
+%a I-it's me. You- you weren't answering, so I-
+%a Yo-soy yo. Usted- usted no contestaba, así que yo-
+Look I'm coming in. Please have pants on...
+Mire, voy a entrar. Por favor, póngase los pantalones...
+Euughh... smells like a sewer in here...
+Euughh... aquí huele a cloaca...
+%a Where the hell's the...? Ah.
+%a ¿Dónde diablos está...? Ah.
+Ohh man.
+Ohh tío.
+Ms. Dunst wasn't kidding. That- that SERIOUSLY look like blood.
+La Sra. Dunst no bromeaba. Eso... eso REALMENTE parece sangre.
+Is this a prank? No she- oh man what if she actually hurt herself?
+¿Es una broma? No, ella... oh tío, ¿y si de verdad se ha hecho daño?
+Should I call the cops? I should definitely call the cops%DW
+¿Debería llamar a la policía? Definitivamente debería llamar a la policía%DW
+GAAAAAAAAAAAAAAAAAAAAAAAAFUCK- %DONTWAIT
+GAAAAAAAAAAAAAAAAAAAAAAAA JODER- %DONTWAIT
+CAN WE GET SOME HELP HERE PLEASE
+¿PODRÍAN AYUDARNOS, POR FAVOR?
+AAAAAAAAAAGHHHHINEEDAPLUNGER
+AAAAAAAAAAGHHHH NECESITO UN DESATASCADOR
+CAN I GET SOME HELP HERE PLEASE
+¿PUEDEN AYUDARME, POR FAVOR?
+Should I call the cops? I should definitely call the cops--
+¿Debería llamar a la policía? Definitivamente debería llamar a la policía...
+GAAAAAAAAAAAAAAAAAAAAAAAAFUCK-
+GAAAAAAAAAAAAAAAAAAAAAAAA JODER-
+Ugh... my hair feels disgusting.
+Agh... mi pelo está asqueroso.
+Excuse me, I'm looking for the owner?
+Disculpe. Busco a la dueña.
+Mmmh?
+¿Mmmh?
+I got a call about a blocked pipe.
+Me han llamado por una tubería atascada.
+Oh. Yeah. Right.
+Oh. Si. Sí, claro.
+%a The bathroom's upstairs. Door's over there.
+%a El baño está arriba. La puerta está allí.
+At least he got here quickly.
+Por lo menos ha venido rápido.
+This is going to cost a fortune-
+Esto va a costar una fortuna-
+*sfx: screaming is heard from upstairs*
+*sfx: se oyen gritos desde arriba*
+This is going to cost a fortune-%DONTWAIT
+Esto va a costar una fortuna-%DONTWAIT
+!!!
+
+Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhshit-
+Ohhhhhhhhhhhhhhhhhhhhhhhhhhhh mierda-
+Ugh, what a week...
+Agh, vaya semanita...
+What am I going to do? I can't keep relying on the gym's showers.
+¿Qué voy a hacer? No puedo seguir dependiendo de las duchas del gimnasio.
+*Sigh*
+*Suspiro*
+Maybe I'm overreacting. Maybe I *should* call a plumber.
+Quizá estoy exagerando. Tal vez *debería* llamar a un fontanero.
+Yo, Ms. D?
+Ey, ¿Sra. D?
+So I know you wanted me to restock, but uhh...
+Sé que quería que me repusiera, pero... uhh...
+I think there might be something wrong with that last delivery?
+¿Creo que puede haber algún problema con la última entrega?
+There's enough finger-grease on there as it is.
+Ya hay suficiente grasa para los dedos ahí.
+Hmm. Come to think of it, this looks like the seance sigil they used in the Miranda Manor movie.
+Hmm. Ahora que lo pienso, esto se parece al sello de espiritismo que usaron en la película Mansión Miranda.
+Of course, nothing's happening. It's all a load of nonsense.
+Por supuesto, no pasa nada. Todo es un montón de tonterías.
+...Unless I missed a step?
+... ¿A menos que me haya saltado un paso?
+Whatever. I'll let the steam clean this up.
+Lo que sea. Dejaré que el vapor limpie esto.
+There. One tacky seance sigil from one tacky movie.
+Ahí está. Un sello de espiritismo hortera de una película hortera.
+Am I really so desperate for a shower I'm trying *this*?
+¿Estoy realmente tan desesperada por una ducha que estoy intentando *esto*?
+...??
+¿¿...??
+Fun. I'll let the steam clean it up.
+Es divertido. Dejaré que el vapor lo limpie.
+There. My reflection is now banned.
+Ahí está. Mi reflejo está ahora prohibido.
+Zoop.
+Plis plas.
+Mmm-hm... Yep...
+Mmm-hm... Sip...
+Ha ha. It's a little face.
+Ja, ja. Es una carita.
+One, two, three...
+Uno, dos, tres...
+Smooth and inoffensive.
+Suave e inofensivo.
+...Circle it like that...
+... Rodéalo así...
+Bullseye.
+Diana.
+Annnnd I've ruined it.
+Y la he estropeado.
+Add some aliens...
+Añadimos unos alienígenas...
+Mm-hm...
+
+Dowwwn...
+Abajooo...
+Add a bit of that...
+Añadimos un poco de eso...
+Gotta floss more.
+Tengo que usar más el hilo dental.
+The glass is completely fogged up. Probably for the best.
+El cristal está completamente empañado. Probablemente sea lo mejor.
+At least with the lights out I don't have to look at what my hair's doing.
+Al menos con las luces apagadas no tengo que mirar lo que hace mi pelo.
+The glass is both dark and completely fogged up.
+El cristal está oscuro y completamente empañado.
+In other words, it's at ideal visibility.
+En otras palabras, tiene una visibilidad ideal.
+Maybe I should just go to work...
+Tal vez debería ir a trabajar...
+This is getting weird. Really weird. Someone is probably screwing with me, but...
+Esto se está poniendo raro. Realmente raro. Probablemente alguien me está jodiendo, pero...
+Is it worth sticking around to find out?
+¿Merece la pena quedarse para averiguarlo?
+This is a problem for a plumber. Or a priest.
+Esto es un problema para un fontanero. O para un sacerdote.
+Whichever won't ask questions.
+Cualquiera que no haga preguntas.
+Screw this.
+Al diablo con esto.
+Focus, focus.
+Concéntrate, concéntrate.
+Hi there, duck.
+Hola, patito.
+blood
+sangre
+drenched
+empapado
+So you're the famous Cool Ranch.
+Así que eres el famoso Cool Ranch.
+You were quite the talk of the computer lab back in the day.
+Eras la comidilla del laboratorio de informática.
+%a No jobs. No taxes.
+%a Sin trabajar. Sin impuestos.
+%a No comprehension of the way showers are supposed to work...
+%a No entiendo cómo se supone que funcionan las duchas...
+So simple.
+Así de simple.
+Do you know how to talk to ghosts?
+¿Sabes hablar con los fantasmas?
+Come on, you must have consorted with a few dark ones in your life.
+Vamos, debes haberte juntado con unos cuantos tipos oscuros en tu vida.
+I'll make you talk one of these days.
+Te haré hablar un día de estos.
+Sorry for almost sacrificing you to the dark bath gods.
+Perdón por casi sacrificarte a los dioses del baño oscuro.
+You looked more bloodproof than you actually were.
+Parecías más a prueba de sangre de lo que realmente eras.
+It will happen again.
+Volverá a pasar.
+He's probably a gajillionaire by now. Hacking mainframes. Reticulating splines.
+Probablemente ahora es un gajillonario. Hackeando computadoras centrales. Reticulando ranuras.
+%aWhatever it is coders do when they become British.
+%aLo que sea que hagan los programadores cuando se vuelven británicos.
+Do you think he...?
+¿Crees que él...?
+I'm talking to a rubber duck.
+Estoy hablando con un patito de goma.
+Hey, welcome back. It looks like you've played a different build of Pipes on this computer before.
+Hola, bienvenido. Parece que ya has jugado a otra versión de Tuberías en este ordenador.
+Save files unfortunately aren't cross-compatible.
+Lamentablemente, los archivos guardados no son compatibles entre sí.
+Would you like to clear your old data now?
+¿Quieres borrar tus datos antiguos ahora?
+version
+versión
+Done. Happy declogging!
+Hecho. ¡Feliz desatasco!
+No problem. Your data has not been changed.
+No hay ningún problema. Sus datos no han sido modificados.
+See you later!
+¡Hasta la vista!
+//   [old dialog strings]
+//   [_GlobalVariables.asc strings]
+//   [Sink Shit.asc strings]
+//   [Clarissa's Moods.asc strings]
+//   [Google It.asc strings]
+plumber local phone number
+número del fontanero local
+bathtub weird
+bañera extraña
+how to block a phone number
+cómo bloquear un número de teléfono
+exorcisms for beginners
+exorcismos para principiantes
+church local phone number
+número de la iglesia local
+plumber who won't ask questions
+fontanero que no hace preguntas
+priest who won't ask questions
+sacerdote que no hace preguntas
+alarm clocks
+despertadores
+am i butch
+¿soy un machote?
+bathroom
+cuarto de baño
+bathroom weird noises
+ruidos extraños en el baño
+backed up pipes
+tuberías atascadas
+beat the buzzer
+golpear el timbre
+camera bunker bat
+cámara bunker bat
+calculate day i will die
+calcula el día que moriré
+can you eat a eagle
+¿puedes comerte un águila?
+do cats bounce
+¿rebotan los gatos?
+define strawberry blonde
+definir rubio fresa
+easy meals for one
+comidas fáciles para una persona
+earthquakes localized britain
+seísmos localizados en gran bretaña
+energy drinks buy bulk
+bebidas energéticas comprar a granel
+plumbing for beginners
+fontanería para principiantes
+frogs
+ranas
+placebook
+cuaderno
+what is a ghoul
+qué es un ghoul
+godzilla
+
+how long can i go with no sleep
+¿cuánto tiempo puedo estar sin dormir?
+how to make friends when you're 30
+cómo hacer amigos a los 30 años
+how to exorcise a bathroom
+cómo exortizar a un cuarto de baño
+indiana jones and the thing
+indiana jones y la cosa
+jitendra prasad placebook
+jitendra prasad cuaderno
+kill me
+mátame
+longest shift worked ever
+el turno más largo jamás trabajado
+forums for lesbians
+foros para lesbianas
+marshal johnson placebook
+marshal johnson cuaderno
+maze game
+juego de laberintos
+minimum wage melbourne
+salario mínimo melbourne
+help teenager with shit parents
+ayuda para adolescentes con padres de mierda
+other worlds
+otros mundos
+pipes clogged
+tuberías atascadas
+pipes weird
+tuberías extrañas
+pope brand holy water
+agua bendita de marca papal
+plumber near me
+fontanero cerca de casa
+quagmires
+cenagales
+roundhouse kick techniques
+técnicas de patada giratoria
+silence in the wings
+silencio entre bastidores
+sorry letter templates
+plantillas de cartas de disculpa
+how to say sorry i haven't called
+cómo decir siento no haber llamado
+tax dates 2004
+datos fiscales 2004
+underwater temple
+templo submarino
+vodka bulk buy
+vodka a granel comprar
+why does my jaw hurt
+¿por qué me duele la mandíbula?
+why does my bathtub leak blood
+¿por qué mi bañera pierde sangre?
+why does my back hurt
+¿por qué me duele la espalda?
+what am i doing with my life
+¿qué estoy haciendo con mi vida?
+where can i buy drain cleaner
+¿dónde puedo comprar desatascador de desagües?
+how much time do i have left
+¿cuánto tiempo me queda?
+you the man now dog
+ahora eres el hombre perro
+xenomorph
+xenomorfo
+sdspe3 walkthrough
+sdspe3 guía
+underwater monk
+monje submarino
+priest
+sacerdote
+sprocket mckormic fanpage
+página de fans de sprocket mckormic
+against aliens
+contra los alienígenas
+killer bees from outer space
+abejas asesinas del espacio exterior
+robot man from mars
+hombre robot de marte
+canned asparagus
+espárragos en conserva
+menopause
+menopausia
+am i pergeonate
+¿soy un pergeñado?
+am i going to die alone
+¿voy a morir solo?
+do my parents love me
+¿me quieren mis padres?
+is a nurse hitting on me
+¿es una enfermera la que está ligando conmigo?
+quentin street shopping
+compras en la calle quentin
+video nine
+vídeo nueve
+video nine open hours
+video nueve horas de apertura
+video nine creepy owner
+video nueve dueña escalofriante
+tomo identity
+tomo identidad
+tomodachi meaning
+significado de tomodachi
+babelfish
+pez babel
+can you survive a 30ft drop
+¿puedes sobrevivir a una caída de 10 metros?
+relaxation techniques -yoga
+técnicas de relajación -yoga
+penn and teller
+pluma y narrador
+penis
+pene
+penis colada
+pene colada
+boobs
+tetas
+boobs huge
+tetas grandes
+the thing
+la cosa
+you blew it up you maniacs
+lo habéis volado, maníacos
+gorilla violence
+violencia gorila
+buyer's direct
+directo al comprador
+when does beat the buzzer air
+¿cuándo se emite el golpe de timbre?
+when will I learn
+cuándo aprenderé
+we like to party
+nos gusta la fiesta
+plan nine from outer space
+plan nueve del espacio exterior
+anger management courses
+cursos de control de la ira
+brooms
+escobas
+luxury brooms
+escobas de lujo
+joseph prasad placebook
+joseph prasad cuaderno
+ingrid zheng placebook
+ingrid zheng cuaderno
+clarissa
+
+clarissa dunst
+
+clarissa dunst placebook
+clarissa dunst cuaderno
+benjamin evergreen
+
+benjamin evergreen conspiracy
+benjamin evergreen conspiración
+benjamin evergreen wiki
+
+rabbiteye motel
+motel ojo de conejo
+wiki
+
+anime
+
+higurashi anime
+
+is sailor moon an anime
+¿es la luna marinera un anime?
+how to unclog a drain
+cómo desatascar un desagüe
+how can i unclog a drain
+¿cómo puedo desatascar un desagüe?
+backstreet's back alright
+los backstreet han vuelto
+how to log off
+cómo desconectarse
+help i can't close this window
+ayuda no puedo cerrar esta ventana
+help my pipes are broken
+ayuda mis tuberías están rotas
+hire a plumber
+contratar a un fontanero
+hire a priest
+contratar a un sacerdote
+falsely profound essay starters
+iniciadores de ensayos falsamente profundos
+dylan swisse
+
+sprockcon tickets 2004
+entradas sprockcon 2004
+shrekathon 2004 dates
+fechas del shrekathon 2004
+shrek alphabetical ogre
+shrek ogro alfabético
+falsely profound national apology
+disculpa nacional falsamente profunda
+falsely profound war trial
+juicio de guerra falsamente profundo
+dylan swisse tour dates
+fechas de la gira de dylan swisse
+dylan swisse army of knives
+dylan swisse ejército de cuchillos
+ghosts
+fantasmas
+can pipes get possessed
+¿pueden las tuberías ser poseídas?
+what does ectoplasm smell like
+a qué huele el ectoplasma
+ectoplasm
+ectoplasma
+how to deal with a ghost
+cómo lidiar con un fantasma
+where is the best place to cry
+cuál es el mejor lugar para llorar
+where to report a dead body
+dónde informar de un cadáver
+do i need to pay teenagers full wage
+¿tengo que pagar a los adolescentes el salario completo?
+auslan for beginners
+auslan para principiantes
+do i need therapy
+¿necesito terapia?
+undergraduate psychology courses
+cursos universitarios de psicología
+evangelion
+
+end of sister mary evangeline
+fin de la hermana maria evangeline
+end of evangelion
+fin de evangelion
+pipes walkthrough
+tuberías guía
+help
+ayuda
+how do i close this screen
+¿cómo puedo cerrar esta pantalla?
+help i'm stuck
+ayuda estoy atascado
+crouton
+picatostes
+how do you know if you're haunted
+cómo saber si estás embrujado
+how do you say sorry
+cómo pedir perdón
+tape trading
+comercio de casetes
+vinny's tape trading emporium
+emporio del comercio de casetes de vinny
+tape trading gameshows
+intercambio de casetes espectáculos de juegos
+boobs itchy
+picazón en las tetas
+ghoulgool
+
+isn't it spelt google
+¿no se escribe google?
+//   [CustomDialogGui.asc strings]
+%d. 
+
+,
+
+)
+
+d
+
+i
+
+//   [IniFile.asc strings]
+]
+
+;
+
+=
+
+[%s]
+
+1
+
+true
+verdadero
+on
+
+yes
+sí
+%s=%s
+
+%s=%d
+
+%s=%f
+
+amb
+
+clickAndDrag
+
+turnSpeed
+
+//   [CountDown.asc strings]
+%d
+
+RAWTIME
+
+%02d
+
+HH
+
+H
+
+MM
+
+M
+
+SS
+
+S
+
+//   [tween.asc strings]
+//   [showsplash.asc strings]
+//   [chara enums.asc strings]
+//   [ViewportFixer.asc strings]
+//   [dialog.asc strings]
+: 
+
+%s%s
+
+PLAYERNAME
+
+^^
+
+%a
+
+%DONTWAIT
+
+%DW
+
+(
+
+//   [Observation Text.asc strings]
+//   [Menu Stuff.asc strings]
+useFlag
+
+Your hands are full.
+Tienes las manos ocupadas.
+It's full.
+Está llena.
+//   [labels]
+Zork: Grand Inquisitor came out 27 years ago. Think about that.
+Zork: Grand Inquisitor salió hace 27 años. Piénsalo.
+This is where hover text for an item goes.
+Aquí es donde va el texto flotante de un elemento.
+http://www.ghoulgool.xx
+
+(X) NEW MESSAGES
+(X) NUEVOS MENSAJES
+E. Doe (555-11037)
+
+Text messages go here. Neat, huh?
+Los mensajes de texto van aquí. Genial, ¿eh?
+MASTER VOLUME
+VOLUMEN PRINCIPAL
+BGM
+
+AMB
+
+SFX
+
+BLOOPS
+
+Max Turn Speed
+Velocidad máxima de giro
+For Mouse
+Para Ratón
+For Trackpads
+Para Trackpads
+Keyboard Shortcuts
+Atajos de Teclado
+Red Tint
+Tinte Rojo
+Green Tint
+Tinte Verde
+Blue Tint
+Tinte Azul
+- PAUSED -
+- PAUSADO -
+Your Belongings
+Tus Pertenencias
+Container
+Contenedor
+This is where the text for a webpage goes.[[Obviously, there's no formatting to be found here.[[I guess I could add a button for an image, too?
+Aquí es donde va el texto de una página web.[[Obviamente, aquí no hay formato.[[¿Supongo que también podría añadir un botón para una imagen?
+SAVE/LOAD YOUR GAME?
+¿GUARDAR/CARGAR JUEGO?
+- QUIT GAME? -
+- ¿SALIR DEL JUEGO? -
+(This game does not autosave!)
+(¡Este juego no guarda automáticamente!)
+//   [buttons]
+AUDIO
+
+VISUAL
+
+PAUSE
+PAUSA
+QUIT
+SALIR
+Automatic Pan
+Pan Automático
+Click-and-drag
+Clic y arrastrar
+Quickturn Keys
+Teclas de Giro Rápido
+Save/Load Game
+Guardar/Cargar
+Quit
+Salir
+Unpause
+Cancelar Pausa
+X
+
+<
+
+SAVE
+GUARDAR
+DELETE
+BORRAR
+LOAD
+CARGAR
+WAIT NO
+ESPERA, NO
+UNPAUSE
+CANCELAR PAUSA
+//   [listboxes]
+//   [characters]
+Clarissa
+
+Wallet
+Cartera
+New character
+
+Sink
+Lavabo
+Plumber
+Fontanero
+//   [inventory items]
+Stale Bagel
+Panecillo Rancio
+Sad Banana
+Plátano Triste
+Visitor's Pass - Floor 3
+Pase de Visitante - Planta 3
+Mug
+Taza
+Gloves
+Guantes
+"Cool Ranch" the Duck
+"Cool Ranch" el Pato
+Broom
+Escoba
+Factory Reject Candles
+Velas Rechazadas en Fábrica
+Drain Cleaner
+Desatascador
+Matches
+Cerillas
+Necklace?
+¿Collar?
+//   [global messages]
+//   [dictionary]
+a
+
+all
+
+an
+
+at
+
+every
+
+for
+
+from
+
+in
+
+into
+
+is
+
+it
+
+me
+
+now
+
+of
+
+out
+
+over
+
+please
+
+some
+
+that
+
+the
+
+these
+
+this
+
+through
+
+to
+
+under
+
+up
+
+will
+
+with
+
+anyword
+
+rol
+
+// [room1.crm]
+//   [hotspots]
+No hotspot
+
+Glowing orb
+Orbe brillante
+Hotspot 2
+
+Hotspot 3
+
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+Hotspot 8
+
+Hotspot 9
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+//   [messages]
+//   [objects]
+//   [script strings]
+// [room10.crm]
+//   [hotspots]
+"CAVERNS OF MYSOTERIA"
+"CAVERNAS DE MISOTERIA"
+"THE HAUNTING OF MIRANDA MANOR"
+"EL ENCANTAMIENTO DE LA MANSIÓN MIRANDA"
+"KIDZ ZONE"
+"ZONA KIDZ"
+"FREE WALKMAN"
+"WALKMAN GRATIS"
+"VIDEO NINE" Logo
+Logotipo "VIDEO NUEVE"
+"TRUCK"
+"CAMIÓN"
+"CAMERA, BUNKER, BAT"
+"CÁMARA, BUNKER, BAT"
+//   [messages]
+//   [objects]
+Go Back
+Atrás
+//   [script strings]
+THE HAUNTING OF MIRANDA MANOR: A period-piece horror film, supposedly based on a true story.
+EL ENCANTAMIENTO DE LA MANSIÓN MIRANDA: película de terror de época, supuestamente basada en una historia real.
+Except instead of taking place at a hotel, it takes place at a mansion. And there's no proof Lucille ever drew sigils to contact the dead.
+Excepto que en vez de tener lugar en un hotel, tiene lugar en una mansión. Y no hay pruebas de que Lucille haya dibujado sellos para contactar con los muertos.
+It's alright. The effects are decent.
+Está bien. Los efectos son decentes.
+Why didn't they use a Ouija board in this movie? I'm sure they must have been around in the 1920's.
+¿Por qué no usaron una ouija en esta película? Seguro que existían en los años 20.
+It would have solved a lot of problems if Lucille had thought to communicate that way, instead of that strange symbol-drawing system.
+Se habrían resuelto muchos problemas si a Lucille se le hubiera ocurrido comunicarse así, en lugar de con ese extraño sistema de dibujo de símbolos.
+But I guess they wouldn't have a plot if they did that.
+Pero supongo que no tendrían trama si hicieran eso.
+THE CAVERNS OF MYSOTERIA: Some high-budget sci-fi schlock about miners who dig too deep.
+LAS CAVERNAS DE MISOTERIA: Un poco de ciencia ficción de alto presupuesto sobre mineros que cavan demasiado profundo.
+I vaguely remember Joseph talking about this one... something about a time-travelling chatroom and a cave that eats people?
+Recuerdo vagamente a Joseph hablando de esto... ¿algo sobre una sala de chat que viaja en el tiempo y una cueva que se come a la gente?
+Maybe I'll watch it on the store TVs later.
+Tal vez lo vea en los televisores de la tienda más tarde.
+I don't remember much about this movie. The one time it was on free-to-air, I fell asleep.
+No recuerdo mucho sobre esta película. La única vez que estuvo en abierto, me quedé dormido.
+Forty minutes later I wake up to people screaming and a man falling upwards. Very disorienting.
+Cuarenta minutos después me despierto con gente gritando y un hombre cayendo hacia arriba. Muy desorientador.
+FREE WALKMAN: Because corporate signed a deal with the manufacturer right before everyone decided they wanted an iPod.
+WALKMAN GRATIS: Porque la empresa firmó un acuerdo con el fabricante justo antes de que todos decidieran que querían un iPod.
+Months later, no takers.
+Meses después, no hay interesados.
+I don't need to cut this coupon out. Not when I still have three boxes of the bloody things.
+No necesito recortar este cupón. No cuando todavía tengo tres cajas de esas malditas cosas.
+Hm... I wonder if selling the excess stock would count as fraud?
+Hm... Me pregunto si vender el exceso de existencias contaría como fraude.
+Why *did* they print the Kidz Zone advertisement so close to the horror section?
+¿Por qué *imprimieron* el anuncio de Kidz Zone tan cerca de la sección de terror?
+That seems... Inappropriate.
+Eso parece... inapropiado.
+We don't even have a Kidz Zone at the store. It got too expensive to deep-clean the puke in the slide.
+Ni siquiera tenemos una Kidz Zone en la tienda. Era demasiado caro limpiar el vómito del tobogán.
+I'm sure if any families ever read these magazines, I'd never hear the end of the complaints.
+Estoy seguro de que si alguna familia leyera estas revistas, no acabaría nunca de oír las quejas.
+TRUCK: A black comedy thriller where an ice-cream truck is commandeered by the FBI.
+CAMIÓN: Una comedia negra de suspense en la que un camión de helados es requisado por el FBI.
+You'd think there'd be better ways to catch an alien that's preying on children.
+Una pensaría que hay mejores formas de atrapar a un alienígena que se alimenta de niños.
+I may not remember much about TRUCK, but the soundtrack is frustratingly catchy.
+Puede que no recuerde mucho de CAMIÓN, pero la banda sonora es frustrantemente pegadiza.
+How they made a rap song out of Greensleeves, I'll never understand.
+Nunca entenderé cómo hicieron un rap de Greensleeves.
+CAMERA, BUNKER, BAT: Just another in a long line of slasher movies where students get dismembered.
+CÁMARA, BUNKER, BAT: Una más en la larga lista de películas slasher donde los estudiantes son desmembrados.
+I'm surprised this one made it to the catalog. It's older than some of my staff.
+Me sorprende que este haya llegado al catálogo. Es más antiguo que algunos de mis empleados.
+Has it really been twenty years since I snuck in to watch this? How time flies.
+¿De verdad han pasado veinte años desde que me colé para ver esto? Cómo pasa el tiempo.
+I can't believe that amputation scene gave me nightmares. The veins are so obviously made of yarn.
+No puedo creer que la escena de la amputación me diera pesadillas. Las venas están hechas obviamente de hilo.
+Video Nine. It's like Cloud Nine, but with movies. I guess.
+Video Nueve. Es como Nube Nueve, pero con películas. Eso creo.
+Unfortunately that explanation doesn't stop customers from asking me what happened to Videos One to Eight.
+Por desgracia, esa explicación no impide que los clientes me pregunten qué ha pasado con los Vídeos Uno a Ocho.
+Has it really been five years since I bought this place...?
+¿Realmente han pasado cinco años desde que compré este lugar...?
+What am I doing with myself?
+¿Qué estoy haciendo conmigo misma?
+// [room2.crm]
+// Manual en hex, en room2.
+It would be easier to see myself if I walked over there.
+Sería más fácil verme si me acercara hasta allí.        
+Keep your friends close, your enemies closer, and your belongings in your pocket. Bare minimum, don't throw them into the living room.
+Mantén a tus amigos cerca, a tus enemigos más cerca y tus pertenencias en el bolsillo. Como mínimo, no las dejes tiradas por el salón.
+How long have I been at this? I still need to open, but...
+¿Cuánto tiempo llevo en esto? Y tengo que abrir, pero...  
+//¿Cuánto tiempo llevo en esto? Todavía tengo que abrir, pero...
+Shitty little cord, shitty little light. At least one thing works properly.
+Cordelito de mierda, lucecita de mierda. Al menos una cosa funciona bien.  
+Maybe I could tie this to that...? No, no, that would break the cord.
+¿Quizás podría atar esto a eso...? No, no, eso rompería el cordón.   
+Some things should not be sacrificed to a tub of blood. This is one of them.
+Hay cosas que no se deben sacrificar en una bañera de sangre. Y esta es una.
+//Algunas cosas no deben sacrificarse en una cuba de sangre. Esta es una de ellas.
+What the hell even is that...? It sure smells like blood, but...
+¿Qué demonios es eso...? Seguro que huele a sangre, pero...     
+I'm not touching that with my bare hands.
+No voy a tocar eso con mis propias manos.
+It's still a bit damp from the last time I used it. I'll leave it hanging.
+Sigue un poco húmeda de la última vez que la usé. La dejaré colgada.      
+//Todavía está un poco húmeda de la última vez que la usé. La dejaré colgada.
+Is this the one I stole from that hotel? Must be. It's far nicer than my others.
+¿Esa es la que robé de aquel hotel? Debe ser. Es mucho más bonita que las demás.
+That's already dry.
+Ya está seco.      
+Oh, that's why I couldn't find my jeans. I haven't actually washed them.
+Por eso no encontraba mis vaqueros. En realidad no los he lavado.       
+The pile is big enough as it is.
+La pila ya es bastante grande.  
+A crappy little cord for a crappy little light... At least ONE thing here works.
+Un cablecito de mierda para una lucecita de mierda... Al menos ALGO funciona.   
+//Un cablecito de mierda para una lucecita de mierda... Al menos UNA cosa funciona aquí.
+There's enough things floating in the tub right now.
+Ya hay suficientes cosas flotando en la bañera.     
+He's fine where he is.
+Está bien donde está. 
+It's lost so many bristles over the years, it's now more of a poking stick than anything else.
+Ha perdido tantas cerdas con los años, que ahora es más un palo para pinchar que otra cosa.   
+Let's not start a housefire.
+No provoquemos un incendio. 
+//   [hotspots]
+Mirror Cabinet
+Armario con Espejo
+Bathroom Door
+Puerta de Baño
+Lightswitch
+Interruptor de la Luz
+Sink Cabinets
+Armarios del Lavabo
+//   [messages]
+//   [objects]
+Bathtub
+Bañera
+The Good Towel
+La Toalla Buena
+Dirty Laundry
+Ropa Sucia
+Partially-Full Shampoo
+Champú Parcialmente Lleno
+Sticky Note
+Nota Adhesiva
+Cool Ranch
+
+Candles
+Velas
+//   [script strings]
+A complete joke. An absolute waste of my time.
+Una tomadura de pelo. Una absoluta pérdida de mi tiempo.
+Blood red and very, very goopy...
+Rojo sangre, y muy pegajoso...
+Ugh it's nauseating to watch.
+Agh. Es nauseabundo de ver.
+Where did it go? I can't see the bottom with the lights off.
+¿Dónde se ha ido? No puedo ver el fondo con las luces apagadas.
+I think I can hear something moving around in there, but it's hard to see anything with the lights off.
+Creo que oigo algo moviéndose ahí dentro, pero es difícil ver nada con las luces apagadas.
+I should turn the light off before I go. The power bill is high enough already.
+Debería apagar la luz antes de irme. La factura de la luz ya es bastante alta.
+Hate those things. They always stick.
+Odio esas cosas. Siempre se quedan pegados.
+What the hell?
+¿Qué demonios?
+Again?
+¿Otra vez?
+At least it's consistent...
+Al menos es consistente...
+...This would be cuter if it wasn't floating in blood.
+... Sería más bonito si no estuviera flotando en sangre.
+...Huh.
+...Hah.
+There's something squishy in the drain.
+Hay algo blando en el desagüe.
+%a An organic buildup, perhaps?
+%a ¿Una acumulación orgánica, quizás?
+...?
+¿...?
+That can't be right... I can't feel the bottom of the tub.
+Eso no puede estar bien... No puedo sentir el fondo de la bañera.
+%a And it's certainly not that deep.
+%a Y desde luego no es tan profunda.
+The blockage seems to be gone, but nothing is draining.
+La obstrucción parece haber desaparecido, pero no desagua nada.
+What am I missing?
+¿Qué se me escapa?
+WHERE THE HELL DID IT GO.
+¿DÓNDE DEMONIOS SE HA METIDO?
+I'd rather not risk poisoning myself.
+Prefiero no correr el riesgo de envenenarme.
+That's everything in the bottle. I hope I didn't just make chlorine gas.
+Está todo en la botella. Espero no haber hecho gas cloro.
+At least that will loosen up whatever's in the drain.
+Al menos eso aflojará lo que haya en el desagüe.
+The fact these came out of the drain completely dry is one miracle I'm not going to ruin just yet.
+El hecho de que salieran completamente secos del desagüe es un milagro que no voy a arruinar todavía.
+Stupid, stupid, stupid.
+Estúpida, estúpida, estúpida.
+%a I'll bet that ugly thing was made of plastic.
+%a Apuesto a que esa cosa fea estaba hecha de plástico.
+And the water is probably rancid shampoo and food dye.
+Y el agua es probablemente champú rancio y colorante alimentario.
+This is what I get for hiring a bunch of nerds.
+Esto me pasa por contratar a un puñado de frikis.
+Duckie?
+¿Patito?
+%a Are you down there, buddy?
+%a ¿Estás ahí abajo, colega?
+Th... the broom dropped straight down, and the tub isn't that deep...
+L... la escoba cayó hacia abajo, y la bañera no es tan profunda...
+Whoof... those chemicals didn't help the colour or smell.
+Ufff... esos productos químicos no ayudaron ni al color ni al olor.
+%a All the more reason to not put my hand in there.
+%a Razón de más para no meter la mano ahí.
+There's got to be a smarter way to clear the drain than putting my hand in that.
+Tiene que haber una forma más inteligente de limpiar el desagüe que meter la mano ahí.
+Who knows what kind of diseases I'd get.
+Quién sabe qué tipo de enfermedades contraería.
+Yoink.
+Pillada.
+Now, where did the matches get to...?
+A ver, ¿dónde se han metido las cerillas...?
+Ughhhh, citronella. I'm beginning to remember why I banished those to the cupboard.
+Ughhhh, citronela. Empiezo a recordar por qué las desterré al armario.
+fsdf
+
+Ahem.
+Ejem.
+I'll leave them for now. I like the ambience they give off.
+Las dejaré por ahora. Me gusta el ambiente que desprenden.
+...There.
+... Ahí.
+Maybe if I'd paid attention in Girl Scouts, I'd know how to start a fire with that.
+Quizá si hubiera prestado atención en las Girl Scouts, sabría cómo encender un fuego con eso.
+Burning my house down via random experimentation isn't on my to-do list.
+Quemar mi casa mediante experimentos aleatorios no está en mi lista de cosas por hacer.
+I've wiped off all the blood, but something still seems... wrong. What did I do to you?
+He limpiado toda la sangre, pero algo me sigue pareciendo... mal. ¿Qué te he hecho?
+The only proof of what it's been through is the stained bristles. How on Earth did it fit past the u-bend?
+La única prueba de lo que ha pasado son las cerdas manchadas. ¿Cómo diablos pasó por la curva en U?
+IsBloodied
+
+There. Clean again - or as clean as I can get it.
+Ya está. Limpio de nuevo - o tan limpio como puedo conseguir.
+...Annnnnd I've ruined this towel.
+... Y he estropeado esta toalla.
+Dammit. Time to rethink that adjective.
+Maldita sea. Es hora de replantearse ese adjetivo.
+There's no need to wipe that down.
+No hay necesidad de limpiar eso.
+If there's nothing in the pockets, then...
+Si no hay nada en los bolsillos, entonces...
+...!
+¡...!
+There's something down the back of the cabinet.
+Hay algo en la parte de atrás del armario.
+Right. No more excuses, I need to clean this up. ...Once I'm done fixing the shower.
+De acuerdo. No más excusas, tengo que lavar esto... Cuando acabe de arreglar la ducha.
+//(Right. No more excuses, I need to clean this up. ...Once I'm done fixing the shower.)
+//(De acuerdo. No más excusas, tengo que lavar esto... Cuando acabe de arreglar la ducha.)
+My water bill is going to skyrocket if I don't fix that.
+Mi factura del agua se va a disparar si no lo arreglo.
+I wonder if my plumbing issues are at all related to me washing dishes in here...?
+Me pregunto si mis problemas de fontanería tienen algo que ver con que lave los platos aquí...
+Surely not, but... maybe I should order that replacement knob for the kitchen just in case.
+Seguro que no, pero... quizá debería pedir ese pomo de repuesto para la cocina por si acaso.
+// [room3.crm]
+//   [hotspots]
+Hotspot 1
+
+//   [messages]
+//   [objects]
+//   [script strings]
+// [room301.crm]
+//   [hotspots]
+//   [messages]
+//   [objects]
+Drip
+Goteo
+//   [script strings]
+fdsfs
+
+// [room302.crm]
+//   [hotspots]
+//   [messages]
+//   [objects]
+//   [script strings]
+// [room303.crm]
+//   [hotspots]
+//   [messages]
+//   [objects]
+//   [script strings]
+// [room304.crm]
+//   [hotspots]
+//   [messages]
+//   [objects]
+//   [script strings]
+// [room305.crm]
+//   [hotspots]
+//   [messages]
+//   [objects]
+//   [script strings]
+// [room306.crm]
+//   [hotspots]
+//   [messages]
+//   [objects]
+//   [script strings]
+fsdfsd
+
+fdsfd
+
+// [room307.crm]
+//   [hotspots]
+//   [messages]
+//   [objects]
+//   [script strings]
+What now?
+¿Y ahora qué?
+Well I mean, all the water in the fridge is kinda...
+Bueno, quiero decir, toda el agua de la nevera es un poco...
+%aIt's gone all...
+%aSe ha ido todo...
+Ahhhscrewit. Just look.
+Ahhh, joder. Mira.
+%aUh oh.
+
+// [room4.crm]
+// Frases que no aparecen. Sólo aparecen en room4.crm.
+//
+I can turn that just fine with my bare hands.
+Puedo girarlo muy bien con mis propias manos.
+The cold knob leaks constantly and is one bad day away from breaking off the wall. Frankly, I'm shocked the bath broke first.
+El grifo del agua fría gotea sin parar y está a punto de caerse. Francamente, me sorprende que la bañera se rompiera primero.
+I try not to use the hot tap. I burn my damn hands every time I do.
+Intento no usar el agua caliente. Siemore me quemo las manos.      
+//Intento no usar el grifo de agua caliente. Me quemo las malditas manos cada vez que lo hago.
+There's not enough room to squeeze something down there - not that I'd want to. One clogged drain is bad enough.
+No hay espacio suficiente para meter algo ahí - no es que no quiera. Un desagüe atascado ya es bastante jodido. 
+//   [hotspots]
+Cold Tap
+Grifo de Agua Fría
+Hot Tap
+Grifo de Agua Caliente
+Drain
+Desagüe
+//   [messages]
+//   [objects]
+Running Water
+Agua Corriente
+//   [script strings]
+Squeak. That's enough of that.
+Chirrido. Ya está bien.
+Squeak. Nice and hot now.
+Chirrido. Agradable y caliente ahora.
+...Hm. It's getting a bit steamy in here.
+... Hm. Se está empañando un poco esto.
+Squeak. Nice and cold now.
+Chirrido. Agradable y fría ahora.
+It's way too dark to see anything down there.
+Está demasiado oscuro para ver nada ahí abajo.
+Hmm. Everything looks clear down there.
+Hmm. Todo parece despejado ahí abajo.
+Maybe it's on a separate water line?
+¿Quizás está en una línea de agua separada?
+%a No, no, that's ridiculous.
+%a No, no, eso es ridículo.
+Hold on. There's something in the drainpipe.
+Un momento. Hay algo en el desagüe.
+Drenched in red and lacking the glint in it's eye. What have you seen, Cool Ranch?
+Empapado en rojo y sin brillo en los ojos. ¿Qué has visto, Cool Ranch?
+The bristles are stained dark red. Was the wood always this old and cracked...?
+Las cerdas están manchadas de rojo oscuro. ¿La madera siempre fue así de vieja y agrietada...?
+My arm won't fit in there.
+Mi brazo no cabe ahí.
+There's definitely something in there. Just got to wiggle it loose, and...
+Definitivamente hay algo ahí. Sólo tengo que moverlo para soltarlo, y...
+It's the duck! I didn't think it was *that* flexible...
+¡Es el pato! No pensé que fuera *tan* flexible...
+%a Doesn't matter. Glad to have you back.
+%a No importa. Me alegro de tenerte de vuelta.
+Hold on- something's tied to it's base with... is that yarn?
+Espera... algo está atado a su base con... ¿eso es hilo?
+A box of matches? How did those get down there?
+¿Una caja de cerillas? ¿Cómo llegó eso ahí abajo?
+There's my broom!
+¡Ahí está mi escoba!
+%a I... I should wipe this off.
+%a Yo... Debería limpiar esto.
+Ouch! Yeah, that's hot.
+¡Ouch! Sí, está caliente.
+Hm... still pretty cold.
+Hm... sigue bastante fría.
+Crystal clear, unlike the bath. How very strange.
+Cristalina, a diferencia del baño. Qué extraño.
+...I should stop wasting water. We're in a drought.
+... Debería dejar de desperdiciar agua. Hay sequía.
+I've wiped off all the blood, but something still seems... wrong. What have you seen, duck?
+He limpiado toda la sangre, pero algo me sigue pareciendo... mal. ¿Qué has visto, pato?
+The only proof of what it's been through is the stained bristles. How on Earth did it fit through the pipes?
+La única prueba de lo que ha pasado son las cerdas manchadas. ¿Cómo demonios ha podido pasar por las tuberías?
+There. Clean again.
+Listo. Limpio otra vez.
+%a Well. As clean as it's ever going to get.
+%a Bueno. Tan limpio como nunca va a estar.
+No need to get that wet.
+No hace falta mojarse tanto.
+// [room5.crm]
+// Frases que no aparecen. Están sólo en el room5.crm
+Let's not increase the amount of slippery shit in here.
+No aumentemos la cantidad de mierda resbaladiza.       
+Does conditioner expire? Hm. A question for when my shower isn't bleeding, perhaps.
+¿El acondicionador caduca? Hm. Una pregunta para cuando mi ducha no esté sangrando.
+//¿El acondicionador caduca? Hm. Una pregunta para cuando mi ducha no esté sangrando, quizás.
+Crusty, strawberry-scented bottles. I don't recall if I've used any of them more than once.
+Botes crujientes con olor a fresa. No recuerdo si he usado alguno más de una vez.          
+How many's left in there? Three? ...I should save these for when my headache gets worse.
+¿Cuántas quedan ahí? ¿Tres? Debería guardarlas para cuando mi dolor de cabeza empeore...
+Thirty bucks worth and yet barely more than a placebo. Not sure why I bother.
+Treinta dólares y no es más que un placebo. No sé por qué me molesto.        
+That's not going to fit in the box.
+Eso no va a caber en la caja.      
+That doesn't have any booboos worth patching up.
+Eso no tiene golpes que valga la pena arreglar. 
+If I move them from this shelf I'll forget where I put them and buy another box for no reason. They can stay where they are.
+Si las muevo de esta estantería olvidaré dónde las puse y compraré otra caja sin motivo. Pueden quedarse donde están.       
+A half-full box of adhesive bandages with cartoon builders printed on. They were on sale.
+Una caja medio llena de tiritas adhesivas con dibujitos de artistas. Estaban de oferta.  
+Oh, good. I do have a pair in here. No need to steal the store's pair.
+Oh, bien. Tengo un par aquí. No es necesario robarlas de la tienda.   
+Not everything can benefit from the Penguin's cunning disguise technique.
+No todo puede beneficiarse de la astuta técnica de disfraz del Pingüino. 
+I'd rather not add broken glass to my list of things to clean today.
+Prefiero no añadir cristales rotos a la lista de cosas que limpiar. 
+//Preferiría no añadir cristales rotos a la lista de cosas que limpiar hoy.
+// la siguiente frase también aparece en room7.crm
+Aha! There's the drain cleaner. I knew I had some somewhere.
+¡Ajá! Ahí está el desatascador. Sabía que quedaba un poco.  
+//¡Ajá! Ahí está el desatascador. Sabía que tenía un poco en alguna parte.
+Oh no. I learned my lesson about throwing bleach around years ago.
+Oh, no. Aprendí la lección sobre tirar lejía hace años.           
+//   [hotspots]
+Close Cabinet
+Cerrar Armario
+Array of Mostly-Full Conditioner Bottles
+Botellas de Acondicionador Casi Llenas
+Painaddol Paracetamol
+Painaddol Paracetamol
+Band-O Bandages
+Tiritas
+//   [messages]
+//   [objects]
+Mirror
+Espejo
+Chemm-O Drain Cleaner
+Desatascador Chemm-O
+Open Cabinet
+Abrir Armario
+//   [script strings]
+These will come in hand-y.
+Serán útiles.
+%a Ha ha.
+%a Ja, ja.
+This is why I live alone.
+Por eso vivo sola.
+I should use the handle to avoid smudging the glass.
+Debería usar el pomo para no manchar el cristal.
+//(I should use the handle to avoid smudging the glass.)
+//(Debería usar el mango para no manchar el cristal.)
+Hm... pretty foggy in here.
+Hm... Hay bastante bruma aquí.
+I could draw something if I wanted to.
+Podría dibujar algo si quisiera.
+I did not write that. I... am certain I did not write that.
+Yo no escribí eso. Yo... estoy segura de que no escribí eso.
+There's... writing in the steam. Of course there's writing in the bloody steam.
+Hay... algo escrito en el vapor. Por supuesto que hay algo escrito en el maldito vapor.
+Where's it pointing to?
+¿Adónde apunta?
+The bottle feels quite light, but it's worth a shot.
+El frasco parece bastante ligero, pero merece la pena probarlo.
+// [room6.crm]
+//   [hotspots]
+//   [messages]
+//   [objects]
+//   [script strings]
+// [room7.crm]
+// Frases que no salen. Solo aparece en room7.crm
+Ducks care not for material possessions.
+A los patos no les importan lo material.
+//A los patos no les importan los bienes materiales.
+That's not going to fit in there. Or vice-versa.
+Eso no va a caber ahí. Ni viceversa.
+There's nothing in there but the scilica packet, and I'm not hungry enough to make that breakfast. Yet.
+No hay nada más que el paquete de scilica, y no tengo tanta hambre como para desayunar eso. Todavía.
+Left-overs from... whenever I last tried to be healthy.
+Restos de... la última vez que intenté mantenerme sana.
+I know from unpleasant experience the paper isn't absorbant to be of any use beyond reading material.
+Sé por mala experiencia que el papel no absorbe como para servir más que de material de lectura.
+Maybe if I wrapped this in the magazine...? No, that won't work.
+Quizás envolvieendo esto en la revista... No, eso no funcionará.
+Wha- why's the bottle so light?
+¿Cómo? ¿Por qué pesa tan poco?
+//¿Por qué pesa tan poco la botella?
+// la siguiente frase también aparece en room5.crm
+Aha! There's the drain cleaner. I knew I had some somewhere.
+¡Ajá! Ahí está el desatascador. Sabía que quedaba un poco.
+//¡Ajá! Ahí está el desatascador. Sabía que tenía un poco en alguna parte.
+I don't know if mixing that with bleach would create mustard gas, but I'd rather not find out!
+No sé si mezclar eso con lejía crearía gas mostaza, ¡pero prefiero no averiguarlo!
+I don't think Ingrid needs to hear about every little thing I keep in my bathroom.
+No creo que Ingrid necesite enterarse de cada cosita que guardo en el baño.
+Annnnnnd now it smells like strawberries.
+... Y ahora huele a fresas.
+Adding that to the ever-growing mental list of things to throw out...
+Añadiendo esto a la creciente lista mental de cosas que tirar...
+Is it actually empty? I can never tell when it's empty.
+¿Está realmente vacío? Nunca sé cuándo está vacío.
+With the water looking this disgusting, I think I can afford to skip dental hygene for now.
+Con esa agua tan asquerosa, creo que puedo permitirme saltarme la higiene dental por ahora.
+Minty, if no longer fresh. It's mostly empty. I keep it around for emergencies.
+Menta, aunque ya no está fresca. Está casi vacía. La guardo para emergencias.
+Annnnnd now it smells like mint.
+... Y ahora huele a menta.
+Considerably less disasterous than the factory reject bath bombs.
+Menos desastrosas que las bombas de baño rechazadas en fábrica.
+//Bastante menos desastroso que las bombas de baño rechazadas en fábrica.
+Arson isn't on my to-do list. At least not for today.
+No voy a provocar un incendio. Al menos hoy no...
+//El incendio provocado no está en mi lista de cosas por hacer. Al menos no por hoy.
+//   [hotspots]
+//   [messages]
+//   [objects]
+Open Door
+Abrir Puerta
+"Cool Ranch"
+
+Empty Vitamins
+Vitaminas Vacías
+"NINE!" Catalog
+Catálogo "¡NUEVE!" 
+Phone
+Teléfono
+Half-Empty Deodorant
+Desodorante Medio Vacío
+Toothpaste
+Pasta de Dientes
+//   [script strings]
+Why am I still holding on to you? It's not like Joseph's coming back to collect.
+¿Por qué sigo aferrándome a ti? No es que Joseph vaya a volver a cobrar.
+...I guess it's kind of cute.
+... Supongo que es bonito.
+C'mon, little guy. You've been in the closet too long.
+Vamos, pequeñín. Llevas demasiado tiempo en el armario.
+There's no dial tone...
+No hay tono de llamada...
+Shut up shut up I'm GETTING there!
+¡Cálla ya, Cálla ya! ¡Ya voy!
+I should give Ingrid a piece of my mind.
+Debería decirle a Ingrid lo que pienso.
+I wonder how Ingrid's study is going.
+Me pregunto cómo van los estudios de Ingrid.
+The way this morning is going, I won't be surprised if the light craps out on me too.
+Tal y como va la mañana, no me sorprendería que también se me fuera la luz.
+Might as well have backup...
+Más vale tener reservas...
+I'll have to clean the crust off these doors when this is all dealt with.
+Tendré que limpiar la costra de estas puertas cuando todo esto esté solucionado.
+And when I'm not working. Or tired from work. Or dealing with my back. That's sore. Because of work.
+Y cuando no esté trabajando. O cansada del trabajo. O lidiando con mi espalda. Eso duele. Por culpa del trabajo.
+Ugh, these catalogs. I had to stop ordering them because no-one was taking them.
+Agh, estos catálogos. Tuve que dejar de pedirlos porque nadie los cogía.
+I dumped whole boxes of them but here we are, four months later, and I'm STILL finding them all over my apartment.
+Me deshice de cajas enteras de ellos, pero aquí estamos, cuatro meses después, y TODAVÍA los encuentro por todo el apartamento.
+Feels pretty light... but it's worth a shot.
+Parece bastante ligero... pero vale la pena intentarlo.
+I can't concentrate with that bloody phone ringing!
+¡No puedo concentrarme con ese maldito teléfono sonando!
+Let's take a look...
+Echemos un vistazo...
+// [room8.crm]
+// Frases que solo aparecen en room8.crm
+Something's tied to the pipe... has that been there the whole time?
+Hay algo atado a la tubería... ¿Ha estado ahí todo el tiempo?      
+Whatever it is, I should be able to untie it with my bare hands.
+Sea lo que sea, debería ser capaz de desatarlo con lass manos.  
+//   [hotspots]
+Back of Sink Pipe
+Parte Trasera de la Tubería del Lavabo
+//   [messages]
+//   [objects]
+//   [script strings]
+What IS that? Some kind of rock?
+¿Qué es eso? ¿Algún tipo de roca?
+I don't own any jewelry like that. A previous tenant's, maybe?
+No poseo ninguna joya como esa. ¿De un inquilino anterior, tal vez?
+%a Let's take a look.
+%a Echemos un vistazo.
+%a Just got to hook this around it, and...
+%a Sólo tengo que enganchar esto alrededor, y...
+// [room9.crm]
+//   [hotspots]
+//   [messages]
+//   [objects]
+Cutscene - Trashed Bathroom
+Escena - Baño Destrozado
+//   [script strings]
+//   (Frases añadidas manualmente)
+It reflects. At least it's not a vampire.
+Refleja. Al menos no es un vampiro.
+(It reflects. At least it's not a vampire.)
+(Refleja. Al menos no es un vampiro.)
+oh hai mark
+
+//   (Frases añadidas manualmente) - Inventario
+Generic text to be displayed if an object can't be used.
+Texto genérico que se mostrará si no se puede utilizar un objeto.
+I can't use that.
+No puedo usar eso.
+Display text when object is observed (right-click)
+Texto cuando se observa un objeto (clic derecho)
+That's nothing interesting.
+No tiene nada de interesante.
+Text displayed when item combo doesn't work.
+Texto mostrado cuando la combinación de elementos no funciona.
+That's not going to cut it.
+Eso no va a funcionar.
+Checks how many times interacted with.
+Comprueba cuántas veces se ha interactuado con él.
+First inventory slot for hotspots.
+Primera ranura de inventario para zonas activas.
+Second inventory slot for hotspots
+Segunda ranura de inventario para zonas activas.
+Third inventory slot for hotspots
+Tercera ranura de inventario para zonas activas.
+Fourth inventory slot for hotspots.
+Cuarta ranura de inventario para zonas activas.
+Fifth inventory slot for hotspots.
+Quinta ranura de inventario para zonas activas.
+Whether or not it can be wiped off on the towel.
+Si se puede limpiar o no con la toalla.
+Wait, what was I going to do with this again?
+Espera, ¿qué iba a hacer con esto?
+"Holds money and access cards. Don't lose it!"
+"Guarda el dinero y las tarjetas de acceso. No la pierdas".
+"Rock hard. Inedible."
+"Duro como una roca. Incomible".
+You'd break your teeth trying.
+Te romperías los dientes intentándolo.
+"Looks bad, Todd."
+"Se ve mal, Todd."
+"Keep in inventory to open doors and elevators to Floor 3."
+"Mantener en inventario para abrir puertas y ascensores al piso 3".
+"Undecorated but well-used. Holds liquid."
+"Sin decorar pero bien usado. Mantiene el líquido".
+The plastic is yellow and crumbly, but it should do the trick for today.
+El plástico está amarillo y quebradizo, pero debería servir por hoy.
+Joseph's old rubber duckie. A buoyant fellow. I don't know why he called it that.
+El viejo patito de goma de Joseph. Un tipo boyante. No sé por qué lo llamaba así.
+I've had many over the years, but this has always been a favourite. So easy to swing.
+He tenido muchas a lo largo de los años, pero esta siempre ha sido mi favorita. Muy fácil de manejar.
+Cheap but bright. The wicks poke out from both top and bottom. I never could decide on a side to burn.
+Baratas pero brillantes. Las mechas sobresalen tanto por arriba como por abajo. Nunca pude decidir qué lado quemar.
+"Just a little cuts through a lot!" Yeah, we'll see about that.
+"¡Sólo un poco ayuda mucho!" Sí, ya veremos eso.
+An ordinary pack of matches that was... in my drainpipe....
+Un cajetilla de cerillas normal y corriente que estaba... en mi desagüe....
+A chunk of amber with something inside, tied to a string. Is... is this what the ghost wants?
+Un trozo de ámbar con algo dentro, atado a una cuerda. ¿Es... es esto lo que quiere el fantasma?
